@@ -1,3 +1,4 @@
 this line was replaced in feature-2
 new file modifies locally
 line added in feature -2
+another modific
